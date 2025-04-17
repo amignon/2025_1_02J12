@@ -30,9 +30,6 @@ public class Aluno {
     }
 
 
-
-
-
     // construtor
     public Aluno(String nome) {
         this.nome = nome;
