@@ -1,6 +1,6 @@
 public class TestaAluno {
     public static void main(String[] args) {
-        Aluno a1 = new Aluno("Ale");
+        Aluno a1 = new Aluno("Ale", 3, 4);
         Aluno a2 = new Aluno("Mignon", 4.5, 5.0);
 
         a1.setNota1(6.0);
